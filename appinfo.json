@@ -1,0 +1,30 @@
+{
+  "uuid": "f76977e2-f1b6-4731-88b2-f59218db7752",
+  "shortName": "vghs",
+  "longName": "vghs",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "name": "CREST",
+        "file": "crest.png",
+        "type": "png"
+      },
+      {
+        "name": "ACME_22",
+        "file": "acme.ttf",
+        "type": "font"
+      }
+    ]
+  }
+}
